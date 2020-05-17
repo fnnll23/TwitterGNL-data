@@ -1,0 +1,4245 @@
+[{
+    "hc_key": "ar",
+    "kw": "todes",
+    "value": 70
+}, {
+    "hc_key": "ar",
+    "kw": "todxs",
+    "value": 55
+}, {
+    "hc_key": "es",
+    "kw": "tods",
+    "value": 47
+}, {
+    "hc_key": "es",
+    "kw": "todoas",
+    "value": 45
+}, {
+    "hc_key": "ar",
+    "kw": "todos_y_todas",
+    "value": 29
+}, {
+    "hc_key": "ar",
+    "kw": "todoas",
+    "value": 22
+}, {
+    "hc_key": "es",
+    "kw": "todos_y_todas",
+    "value": 17
+}, {
+    "hc_key": "es",
+    "kw": "todxs",
+    "value": 16
+}, {
+    "hc_key": "mx",
+    "kw": "tods",
+    "value": 13
+}, {
+    "hc_key": "cl",
+    "kw": "todoas",
+    "value": 13
+}, {
+    "hc_key": "cl",
+    "kw": "tods",
+    "value": 11
+}, {
+    "hc_key": "cl",
+    "kw": "todos_y_todas",
+    "value": 11
+}, {
+    "hc_key": "mx",
+    "kw": "todxs",
+    "value": 10
+}, {
+    "hc_key": "ar",
+    "kw": "tods",
+    "value": 9
+}, {
+    "hc_key": "mx",
+    "kw": "todos_y_todas",
+    "value": 8
+}, {
+    "hc_key": "cl",
+    "kw": "todes",
+    "value": 8
+}, {
+    "hc_key": "co",
+    "kw": "todos_y_todas",
+    "value": 7
+}, {
+    "hc_key": "cl",
+    "kw": "todxs",
+    "value": 5
+}, {
+    "hc_key": "es",
+    "kw": "todes",
+    "value": 5
+}, {
+    "hc_key": "mx",
+    "kw": "todes",
+    "value": 5
+}, {
+    "hc_key": "uy",
+    "kw": "todes",
+    "value": 5
+}, {
+    "hc_key": "co",
+    "kw": "tods",
+    "value": 4
+}, {
+    "hc_key": "uy",
+    "kw": "todos_y_todas",
+    "value": 4
+}, {
+    "hc_key": "uy",
+    "kw": "todoas",
+    "value": 4
+}, {
+    "hc_key": "co",
+    "kw": "todxs",
+    "value": 3
+}, {
+    "hc_key": "pe",
+    "kw": "todxs",
+    "value": 2
+}, {
+    "hc_key": "uy",
+    "kw": "todxs",
+    "value": 2
+}, {
+    "hc_key": "ec",
+    "kw": "tods",
+    "value": 2
+}, {
+    "hc_key": "cr",
+    "kw": "todos_y_todas",
+    "value": 2
+}, {
+    "hc_key": "ec",
+    "kw": "todos_y_todas",
+    "value": 2
+}, {
+    "hc_key": "ni",
+    "kw": "todos_y_todas",
+    "value": 2
+}, {
+    "hc_key": "pe",
+    "kw": "todos_y_todas",
+    "value": 2
+}, {
+    "hc_key": "co",
+    "kw": "todoas",
+    "value": 2
+}, {
+    "hc_key": "ec",
+    "kw": "todoas",
+    "value": 2
+}, {
+    "hc_key": "mx",
+    "kw": "todoas",
+    "value": 2
+}, {
+    "hc_key": "py",
+    "kw": "todoas",
+    "value": 2
+}, {
+    "hc_key": "cr",
+    "kw": "todxs",
+    "value": 1
+}, {
+    "hc_key": "ec",
+    "kw": "todxs",
+    "value": 1
+}, {
+    "hc_key": "gt",
+    "kw": "todxs",
+    "value": 1
+}, {
+    "hc_key": "ni",
+    "kw": "todxs",
+    "value": 1
+}, {
+    "hc_key": "pr",
+    "kw": "todxs",
+    "value": 1
+}, {
+    "hc_key": "cr",
+    "kw": "tods",
+    "value": 1
+}, {
+    "hc_key": "gt",
+    "kw": "tods",
+    "value": 1
+}, {
+    "hc_key": "ni",
+    "kw": "tods",
+    "value": 1
+}, {
+    "hc_key": "pa",
+    "kw": "tods",
+    "value": 1
+}, {
+    "hc_key": "pe",
+    "kw": "tods",
+    "value": 1
+}, {
+    "hc_key": "pr",
+    "kw": "tods",
+    "value": 1
+}, {
+    "hc_key": "uy",
+    "kw": "tods",
+    "value": 1
+}, {
+    "hc_key": "do",
+    "kw": "todos_y_todas",
+    "value": 1
+}, {
+    "hc_key": "gt",
+    "kw": "todos_y_todas",
+    "value": 1
+}, {
+    "hc_key": "pa",
+    "kw": "todos_y_todas",
+    "value": 1
+}, {
+    "hc_key": "pr",
+    "kw": "todos_y_todas",
+    "value": 1
+}, {
+    "hc_key": "py",
+    "kw": "todos_y_todas",
+    "value": 1
+}, {
+    "hc_key": "cr",
+    "kw": "todoas",
+    "value": 1
+}, {
+    "hc_key": "do",
+    "kw": "todoas",
+    "value": 1
+}, {
+    "hc_key": "ni",
+    "kw": "todoas",
+    "value": 1
+}, {
+    "hc_key": "pa",
+    "kw": "todoas",
+    "value": 1
+}, {
+    "hc_key": "pe",
+    "kw": "todoas",
+    "value": 1
+}, {
+    "hc_key": "co",
+    "kw": "todes",
+    "value": 1
+}, {
+    "hc_key": "cr",
+    "kw": "todes",
+    "value": 1
+}, {
+    "hc_key": "pe",
+    "kw": "todes",
+    "value": 1
+}, {
+    "hc_key": "py",
+    "kw": "todes",
+    "value": 1
+}, {
+    "hc_key": "ad",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ae",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "af",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ag",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "al",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "am",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ao",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "as",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "at",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "au",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "aw",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "az",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ba",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bb",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bd",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "be",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bf",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bg",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bh",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bi",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bj",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bm",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bn",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bo",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "br",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bs",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bt",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bw",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "by",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "bz",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ca",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "cd",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "cf",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "cg",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ch",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ci",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "cm",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "cn",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "cu",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "cv",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "cw",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "cy",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "cz",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "de",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "dj",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "dk",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "dm",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "do",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "dz",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ee",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "eg",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "et",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "fi",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "fj",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "fm",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "fo",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "fr",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ga",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gb",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gd",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ge",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gh",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gi",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gl",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gm",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gn",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gq",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gr",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gu",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gw",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "gy",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "hk",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "hn",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "hr",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ht",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "hu",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "id",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ie",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "il",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "im",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "in",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "iq",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ir",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "is",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "it",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "jm",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "jo",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "jp",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ke",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "kg",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "kh",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ki",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "km",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "kn",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "kp",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "kr",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "kw",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ky",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "kz",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "la",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "lb",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "lc",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "li",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "lk",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "lr",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ls",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "lt",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "lu",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "lv",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ly",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ma",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mc",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "md",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "me",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mf",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mg",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mh",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mk",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ml",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mm",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mn",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mo",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mp",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mr",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mt",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mu",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mv",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mw",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "my",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "mz",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "na",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "nc",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ne",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ng",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "nl",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "no",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "np",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "nr",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "nz",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "om",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "pa",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "pf",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "pg",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ph",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "pk",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "pl",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ps",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "pt",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "pw",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "py",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "qa",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ro",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "rs",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ru",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "rw",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sa",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sb",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sc",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sd",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "se",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sg",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "si",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sk",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sl",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sm",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sn",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "so",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sr",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "st",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sv",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sx",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sy",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "sz",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "tc",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "td",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "tg",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "th",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "tj",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "tl",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "tm",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "tn",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "to",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "tr",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "tt",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "tv",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "tz",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ua",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ug",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "us",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "uz",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "vc",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ve",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "vg",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "vi",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "vn",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "vu",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ws",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ye",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "za",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "zm",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "zw",
+    "kw": "todxs",
+    "value": 0
+}, {
+    "hc_key": "ad",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ae",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "af",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ag",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "al",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "am",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ao",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "as",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "at",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "au",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "aw",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "az",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ba",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bb",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bd",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "be",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bf",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bg",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bh",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bi",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bj",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bm",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bn",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bo",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "br",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bs",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bt",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bw",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "by",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "bz",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ca",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "cd",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "cf",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "cg",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ch",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ci",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "cm",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "cn",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "cu",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "cv",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "cw",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "cy",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "cz",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "de",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "dj",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "dk",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "dm",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "do",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "dz",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ee",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "eg",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "et",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "fi",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "fj",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "fm",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "fo",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "fr",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ga",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gb",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gd",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ge",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gh",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gi",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gl",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gm",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gn",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gq",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gr",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gu",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gw",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "gy",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "hk",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "hn",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "hr",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ht",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "hu",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "id",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ie",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "il",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "im",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "in",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "iq",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ir",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "is",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "it",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "jm",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "jo",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "jp",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ke",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "kg",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "kh",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ki",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "km",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "kn",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "kp",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "kr",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "kw",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ky",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "kz",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "la",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "lb",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "lc",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "li",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "lk",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "lr",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ls",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "lt",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "lu",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "lv",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ly",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ma",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mc",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "md",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "me",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mf",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mg",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mh",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mk",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ml",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mm",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mn",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mo",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mp",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mr",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mt",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mu",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mv",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mw",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "my",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "mz",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "na",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "nc",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ne",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ng",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "nl",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "no",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "np",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "nr",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "nz",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "om",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "pf",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "pg",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ph",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "pk",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "pl",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ps",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "pt",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "pw",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "py",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "qa",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ro",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "rs",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ru",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "rw",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sa",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sb",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sc",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sd",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "se",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sg",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "si",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sk",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sl",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sm",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sn",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "so",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sr",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "st",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sx",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sy",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "sz",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "tc",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "td",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "tg",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "th",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "tj",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "tl",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "tm",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "tn",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "to",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "tr",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "tt",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "tv",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "tz",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ua",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ug",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "us",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "uz",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "vc",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ve",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "vg",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "vi",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "vn",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "vu",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ws",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ye",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "za",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "zm",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "zw",
+    "kw": "tods",
+    "value": 0
+}, {
+    "hc_key": "ad",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ae",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "af",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ag",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "al",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "am",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ao",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "as",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "at",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "au",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "aw",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "az",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ba",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bb",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bd",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "be",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bf",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bg",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bh",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bi",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bj",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bm",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bn",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bo",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "br",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bs",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bt",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bw",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "by",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "bz",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ca",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "cd",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "cf",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "cg",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ch",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ci",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "cm",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "cn",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "cu",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "cv",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "cw",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "cy",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "cz",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "de",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "dj",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "dk",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "dm",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "dz",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ee",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "eg",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "et",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "fi",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "fj",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "fm",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "fo",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "fr",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ga",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gb",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gd",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ge",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gh",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gi",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gl",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gm",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gn",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gq",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gr",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gu",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gw",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "gy",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "hk",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "hn",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "hr",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ht",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "hu",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "id",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ie",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "il",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "im",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "in",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "iq",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ir",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "is",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "it",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "jm",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "jo",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "jp",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ke",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "kg",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "kh",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ki",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "km",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "kn",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "kp",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "kr",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "kw",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ky",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "kz",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "la",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "lb",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "lc",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "li",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "lk",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "lr",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ls",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "lt",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "lu",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "lv",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ly",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ma",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mc",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "md",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "me",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mf",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mg",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mh",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mk",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ml",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mm",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mn",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mo",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mp",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mr",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mt",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mu",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mv",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mw",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "my",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "mz",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "na",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "nc",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ne",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ng",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "nl",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "no",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "np",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "nr",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "nz",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "om",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "pf",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "pg",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ph",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "pk",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "pl",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ps",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "pt",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "pw",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "qa",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ro",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "rs",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ru",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "rw",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sa",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sb",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sc",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sd",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "se",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sg",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "si",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sk",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sl",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sm",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sn",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "so",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sr",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "st",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sx",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sy",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "sz",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "tc",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "td",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "tg",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "th",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "tj",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "tl",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "tm",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "tn",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "to",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "tr",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "tt",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "tv",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "tz",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ua",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ug",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "us",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "uz",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "vc",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ve",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "vg",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "vi",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "vn",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "vu",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ws",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ye",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "za",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "zm",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "zw",
+    "kw": "todos_y_todas",
+    "value": 0
+}, {
+    "hc_key": "ad",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ae",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "af",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ag",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "al",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "am",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ao",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "as",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "at",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "au",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "aw",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "az",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ba",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bb",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bd",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "be",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bf",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bg",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bh",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bi",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bj",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bm",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bn",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bo",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "br",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bs",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bt",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bw",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "by",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "bz",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ca",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "cd",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "cf",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "cg",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ch",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ci",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "cm",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "cn",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "cv",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "cw",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "cy",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "cz",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "de",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "dj",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "dk",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "dm",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "dz",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ee",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "eg",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "et",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "fi",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "fj",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "fm",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "fo",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "fr",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ga",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gb",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gd",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ge",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gh",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gi",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gl",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gm",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gn",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gq",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gr",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gt",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gu",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gw",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "gy",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "hk",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "hn",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "hr",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ht",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "hu",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "id",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ie",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "il",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "im",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "in",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "iq",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ir",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "is",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "it",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "jm",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "jo",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "jp",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ke",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "kg",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "kh",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ki",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "km",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "kn",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "kp",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "kr",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "kw",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ky",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "kz",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "la",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "lb",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "lc",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "li",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "lk",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "lr",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ls",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "lt",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "lu",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "lv",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ly",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ma",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mc",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "md",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "me",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mf",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mg",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mh",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mk",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ml",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mm",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mn",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mo",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mp",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mr",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mt",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mu",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mv",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mw",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "my",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "mz",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "na",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "nc",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ne",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ng",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "nl",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "no",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "np",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "nr",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "nz",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "om",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "pf",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "pg",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ph",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "pk",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "pl",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "pr",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ps",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "pt",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "pw",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "qa",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ro",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "rs",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ru",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "rw",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sa",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sb",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sc",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sd",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "se",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sg",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "si",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sk",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sl",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sm",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sn",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "so",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sr",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "st",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sx",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sy",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "sz",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "tc",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "td",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "tg",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "th",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "tj",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "tl",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "tm",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "tn",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "to",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "tr",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "tt",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "tv",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "tz",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ua",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ug",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "us",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "uz",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "vc",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ve",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "vg",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "vi",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "vn",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "vu",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ws",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ye",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "za",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "zm",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "zw",
+    "kw": "todoas",
+    "value": 0
+}, {
+    "hc_key": "ad",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ae",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "af",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ag",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "al",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "am",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ao",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "as",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "at",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "au",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "aw",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "az",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ba",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bb",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bd",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "be",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bf",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bg",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bh",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bi",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bj",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bm",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bn",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bo",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "br",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bs",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bt",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bw",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "by",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "bz",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ca",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "cd",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "cf",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "cg",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ch",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ci",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "cm",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "cn",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "cu",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "cv",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "cw",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "cy",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "cz",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "de",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "dj",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "dk",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "dm",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "do",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "dz",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ec",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ee",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "eg",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "et",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "fi",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "fj",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "fm",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "fo",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "fr",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ga",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gb",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gd",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ge",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gh",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gi",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gl",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gm",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gn",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gq",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gr",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gt",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gu",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gw",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "gy",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "hk",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "hn",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "hr",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ht",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "hu",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "id",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ie",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "il",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "im",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "in",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "iq",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ir",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "is",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "it",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "jm",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "jo",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "jp",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ke",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "kg",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "kh",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ki",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "km",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "kn",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "kp",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "kr",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "kw",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ky",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "kz",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "la",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "lb",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "lc",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "li",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "lk",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "lr",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ls",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "lt",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "lu",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "lv",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ly",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ma",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mc",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "md",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "me",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mf",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mg",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mh",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mk",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ml",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mm",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mn",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mo",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mp",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mr",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mt",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mu",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mv",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mw",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "my",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "mz",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "na",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "nc",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ne",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ng",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ni",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "nl",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "no",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "np",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "nr",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "nz",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "om",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "pa",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "pf",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "pg",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ph",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "pk",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "pl",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "pr",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ps",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "pt",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "pw",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "qa",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ro",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "rs",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ru",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "rw",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sa",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sb",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sc",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sd",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "se",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sg",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "si",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sk",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sl",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sm",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sn",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "so",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sr",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "st",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sv",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sx",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sy",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "sz",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "tc",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "td",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "tg",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "th",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "tj",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "tl",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "tm",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "tn",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "to",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "tr",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "tt",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "tv",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "tz",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ua",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ug",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "us",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "uz",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "vc",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ve",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "vg",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "vi",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "vn",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "vu",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ws",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "ye",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "za",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "zm",
+    "kw": "todes",
+    "value": 0
+}, {
+    "hc_key": "zw",
+    "kw": "todes",
+    "value": 0
+}]

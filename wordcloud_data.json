@@ -1,0 +1,5533 @@
+[{
+    "tag": "FEMINISTA",
+    "weight": 1750,
+    "kw": "general"
+}, {
+    "tag": "OFICIAL",
+    "weight": 1399,
+    "kw": "general"
+}, {
+    "tag": "FAN",
+    "weight": 1313,
+    "kw": "general"
+}, {
+    "tag": "SER",
+    "weight": 1251,
+    "kw": "general"
+}, {
+    "tag": "SOCIAL",
+    "weight": 1231,
+    "kw": "general"
+}, {
+    "tag": "CUENTA",
+    "weight": 1155,
+    "kw": "general"
+}, {
+    "tag": "MUNDO",
+    "weight": 1115,
+    "kw": "general"
+}, {
+    "tag": "MUSICA",
+    "weight": 1017,
+    "kw": "general"
+}, {
+    "tag": "LOVE",
+    "weight": 1002,
+    "kw": "general"
+}, {
+    "tag": "PERIODISTA",
+    "weight": 884,
+    "kw": "general"
+}, {
+    "tag": "AMO",
+    "weight": 844,
+    "kw": "general"
+}, {
+    "tag": "MEJOR",
+    "weight": 813,
+    "kw": "general"
+}, {
+    "tag": "AMOR",
+    "weight": 800,
+    "kw": "general"
+}, {
+    "tag": "SOLO",
+    "weight": 786,
+    "kw": "general"
+}, {
+    "tag": "GUSTA",
+    "weight": 750,
+    "kw": "general"
+}, {
+    "tag": "AMANTE",
+    "weight": 723,
+    "kw": "general"
+}, {
+    "tag": "MILITANTE",
+    "weight": 711,
+    "kw": "general"
+}, {
+    "tag": "CLUB",
+    "weight": 667,
+    "kw": "general"
+}, {
+    "tag": "DIA",
+    "weight": 660,
+    "kw": "general"
+}, {
+    "tag": "POLITICA",
+    "weight": 655,
+    "kw": "general"
+}, {
+    "tag": "NACIONAL",
+    "weight": 647,
+    "kw": "general"
+}, {
+    "tag": "CORAZON",
+    "weight": 639,
+    "kw": "general"
+}, {
+    "tag": "ESTUDIANTE",
+    "weight": 624,
+    "kw": "general"
+}, {
+    "tag": "COMUNICACION",
+    "weight": 602,
+    "kw": "general"
+}, {
+    "tag": "NUNCA",
+    "weight": 594,
+    "kw": "general"
+}, {
+    "tag": "EDUCACION",
+    "weight": 578,
+    "kw": "general"
+}, {
+    "tag": "PERONISTA",
+    "weight": 540,
+    "kw": "general"
+}, {
+    "tag": "COSAS",
+    "weight": 539,
+    "kw": "general"
+}, {
+    "tag": "DERECHO",
+    "weight": 534,
+    "kw": "general"
+}, {
+    "tag": "TAMBIEN",
+    "weight": 511,
+    "kw": "general"
+}, {
+    "tag": "TRABAJO",
+    "weight": 501,
+    "kw": "general"
+}, {
+    "tag": "QUIERO",
+    "weight": 497,
+    "kw": "general"
+}, {
+    "tag": "MADRE",
+    "weight": 493,
+    "kw": "general"
+}, {
+    "tag": "HINCHA",
+    "weight": 489,
+    "kw": "general"
+}, {
+    "tag": "PERSONAS",
+    "weight": 479,
+    "kw": "general"
+}, {
+    "tag": "BTS",
+    "weight": 476,
+    "kw": "general"
+}, {
+    "tag": "RADIO",
+    "weight": 476,
+    "kw": "general"
+}, {
+    "tag": "MADRID",
+    "weight": 473,
+    "kw": "general"
+}, {
+    "tag": "STAN",
+    "weight": 467,
+    "kw": "general"
+}, {
+    "tag": "DOCENTE",
+    "weight": 464,
+    "kw": "general"
+}, {
+    "tag": "MUJER",
+    "weight": 456,
+    "kw": "general"
+}, {
+    "tag": "ARGENTINA",
+    "weight": 447,
+    "kw": "general"
+}, {
+    "tag": "ESCRIBO",
+    "weight": 443,
+    "kw": "general"
+}, {
+    "tag": "ARTE",
+    "weight": 443,
+    "kw": "general"
+}, {
+    "tag": "EX",
+    "weight": 442,
+    "kw": "general"
+}, {
+    "tag": "BIEN",
+    "weight": 437,
+    "kw": "general"
+}, {
+    "tag": "DIOS",
+    "weight": 432,
+    "kw": "general"
+}, {
+    "tag": "CINE",
+    "weight": 432,
+    "kw": "general"
+}, {
+    "tag": "FELIZ",
+    "weight": 429,
+    "kw": "general"
+}, {
+    "tag": "MAMA",
+    "weight": 429,
+    "kw": "general"
+}, {
+    "tag": "VIVIR",
+    "weight": 425,
+    "kw": "general"
+}, {
+    "tag": "RE",
+    "weight": 416,
+    "kw": "general"
+}, {
+    "tag": "TIEMPO",
+    "weight": 410,
+    "kw": "general"
+}, {
+    "tag": "VIVO",
+    "weight": 410,
+    "kw": "general"
+}, {
+    "tag": "ARMY",
+    "weight": 409,
+    "kw": "general"
+}, {
+    "tag": "HISTORIA",
+    "weight": 404,
+    "kw": "general"
+}, {
+    "tag": "DIRECTOR",
+    "weight": 403,
+    "kw": "general"
+}, {
+    "tag": "DERECHOS",
+    "weight": 399,
+    "kw": "general"
+}, {
+    "tag": "FAMILIA",
+    "weight": 393,
+    "kw": "general"
+}, {
+    "tag": "LIBRE",
+    "weight": 392,
+    "kw": "general"
+}, {
+    "tag": "FUTBOL",
+    "weight": 385,
+    "kw": "general"
+}, {
+    "tag": "PERSONAL",
+    "weight": 384,
+    "kw": "general"
+}, {
+    "tag": "LIC",
+    "weight": 384,
+    "kw": "general"
+}, {
+    "tag": "DON",
+    "weight": 380,
+    "kw": "general"
+}, {
+    "tag": "POPULAR",
+    "weight": 380,
+    "kw": "general"
+}, {
+    "tag": "CADA",
+    "weight": 372,
+    "kw": "general"
+}, {
+    "tag": "GENTE",
+    "weight": 366,
+    "kw": "general"
+}, {
+    "tag": "LIBERTAD",
+    "weight": 365,
+    "kw": "general"
+}, {
+    "tag": "TODAS",
+    "weight": 364,
+    "kw": "general"
+}, {
+    "tag": "SOCIALISTA",
+    "weight": 361,
+    "kw": "general"
+}, {
+    "tag": "BANGTAN",
+    "weight": 360,
+    "kw": "general"
+}, {
+    "tag": "HACE",
+    "weight": 358,
+    "kw": "general"
+}, {
+    "tag": "SALUD",
+    "weight": 354,
+    "kw": "general"
+}, {
+    "tag": "AHORA",
+    "weight": 351,
+    "kw": "general"
+}, {
+    "tag": "CENTRO",
+    "weight": 349,
+    "kw": "general"
+}, {
+    "tag": "ROCK",
+    "weight": 349,
+    "kw": "general"
+}, {
+    "tag": "RIVER",
+    "weight": 348,
+    "kw": "general"
+}, {
+    "tag": "CHILE",
+    "weight": 334,
+    "kw": "general"
+}, {
+    "tag": "HACER",
+    "weight": 333,
+    "kw": "general"
+}, {
+    "tag": "GENERAL",
+    "weight": 332,
+    "kw": "general"
+}, {
+    "tag": "PADRE",
+    "weight": 332,
+    "kw": "general"
+}, {
+    "tag": "CULTURA",
+    "weight": 329,
+    "kw": "general"
+}, {
+    "tag": "ACTIVISTA",
+    "weight": 328,
+    "kw": "general"
+}, {
+    "tag": "ESPANA",
+    "weight": 328,
+    "kw": "general"
+}, {
+    "tag": "ASOCIACION",
+    "weight": 327,
+    "kw": "general"
+}, {
+    "tag": "TODA",
+    "weight": 324,
+    "kw": "general"
+}, {
+    "tag": "LIFE",
+    "weight": 321,
+    "kw": "general"
+}, {
+    "tag": "SERA",
+    "weight": 318,
+    "kw": "general"
+}, {
+    "tag": "ONE",
+    "weight": 318,
+    "kw": "general"
+}, {
+    "tag": "ABOGADO",
+    "weight": 315,
+    "kw": "general"
+}, {
+    "tag": "CIUDAD",
+    "weight": 313,
+    "kw": "general"
+}, {
+    "tag": "UBA",
+    "weight": 312,
+    "kw": "general"
+}, {
+    "tag": "INFORMACION",
+    "weight": 309,
+    "kw": "general"
+}, {
+    "tag": "JUSTICIA",
+    "weight": 304,
+    "kw": "general"
+}, {
+    "tag": "POLITICO",
+    "weight": 302,
+    "kw": "general"
+}, {
+    "tag": "ANIMALES",
+    "weight": 301,
+    "kw": "general"
+}, {
+    "tag": "VEZ",
+    "weight": 301,
+    "kw": "general"
+}, {
+    "tag": "VA",
+    "weight": 301,
+    "kw": "general"
+}, {
+    "tag": "CREO",
+    "weight": 300,
+    "kw": "general"
+}, {
+    "tag": "TV",
+    "weight": 299,
+    "kw": "general"
+}, {
+    "tag": "GRACIAS",
+    "weight": 298,
+    "kw": "general"
+}, {
+    "tag": "PRESIDENTE",
+    "weight": 297,
+    "kw": "general"
+}, {
+    "tag": "LIBROS",
+    "weight": 292,
+    "kw": "general"
+}, {
+    "tag": "CONTACTO",
+    "weight": 290,
+    "kw": "general"
+}, {
+    "tag": "ALMA",
+    "weight": 289,
+    "kw": "general"
+}, {
+    "tag": "PROFESOR",
+    "weight": 288,
+    "kw": "general"
+}, {
+    "tag": "VOY",
+    "weight": 288,
+    "kw": "general"
+}, {
+    "tag": "NADIE",
+    "weight": 287,
+    "kw": "general"
+}, {
+    "tag": "PERSONA",
+    "weight": 287,
+    "kw": "general"
+}, {
+    "tag": "PUBLICA",
+    "weight": 286,
+    "kw": "general"
+}, {
+    "tag": "DESARROLLO",
+    "weight": 281,
+    "kw": "general"
+}, {
+    "tag": "REAL",
+    "weight": 280,
+    "kw": "general"
+}, {
+    "tag": "REVOLUCION",
+    "weight": 280,
+    "kw": "general"
+}, {
+    "tag": "PATRIA",
+    "weight": 280,
+    "kw": "general"
+}, {
+    "tag": "BOCA",
+    "weight": 275,
+    "kw": "general"
+}, {
+    "tag": "ABOGADA",
+    "weight": 275,
+    "kw": "general"
+}, {
+    "tag": "PAIS",
+    "weight": 274,
+    "kw": "general"
+}, {
+    "tag": "PASION",
+    "weight": 270,
+    "kw": "general"
+}, {
+    "tag": "GRUPO",
+    "weight": 268,
+    "kw": "general"
+}, {
+    "tag": "PROFESIONAL",
+    "weight": 266,
+    "kw": "general"
+}, {
+    "tag": "MEXICO",
+    "weight": 265,
+    "kw": "general"
+}, {
+    "tag": "FORMACION",
+    "weight": 264,
+    "kw": "general"
+}, {
+    "tag": "BUENA",
+    "weight": 259,
+    "kw": "general"
+}, {
+    "tag": "SIGO",
+    "weight": 257,
+    "kw": "general"
+}, {
+    "tag": "FEMINISMO",
+    "weight": 254,
+    "kw": "general"
+}, {
+    "tag": "IZQUIERDA",
+    "weight": 253,
+    "kw": "general"
+}, {
+    "tag": "LUCHA",
+    "weight": 252,
+    "kw": "general"
+}, {
+    "tag": "GOT",
+    "weight": 250,
+    "kw": "general"
+}, {
+    "tag": "WORLD",
+    "weight": 250,
+    "kw": "general"
+}, {
+    "tag": "CIENCIA",
+    "weight": 249,
+    "kw": "general"
+}, {
+    "tag": "MEDIO",
+    "weight": 248,
+    "kw": "general"
+}, {
+    "tag": "UNIVERSIDAD",
+    "weight": 247,
+    "kw": "general"
+}, {
+    "tag": "DOS",
+    "weight": 247,
+    "kw": "general"
+}, {
+    "tag": "MUJERES",
+    "weight": 246,
+    "kw": "general"
+}, {
+    "tag": "ASI",
+    "weight": 244,
+    "kw": "general"
+}, {
+    "tag": "TAN",
+    "weight": 244,
+    "kw": "general"
+}, {
+    "tag": "PUEDE",
+    "weight": 243,
+    "kw": "general"
+}, {
+    "tag": "PAPA",
+    "weight": 241,
+    "kw": "general"
+}, {
+    "tag": "GRANDE",
+    "weight": 240,
+    "kw": "general"
+}, {
+    "tag": "GUSTAN",
+    "weight": 238,
+    "kw": "general"
+}, {
+    "tag": "CANTANTE",
+    "weight": 238,
+    "kw": "general"
+}, {
+    "tag": "NOTICIAS",
+    "weight": 237,
+    "kw": "general"
+}, {
+    "tag": "PUEBLO",
+    "weight": 236,
+    "kw": "general"
+}, {
+    "tag": "CULTURAL",
+    "weight": 235,
+    "kw": "general"
+}, {
+    "tag": "FUTURO",
+    "weight": 234,
+    "kw": "general"
+}, {
+    "tag": "PROYECTO",
+    "weight": 234,
+    "kw": "general"
+}, {
+    "tag": "PAZ",
+    "weight": 232,
+    "kw": "general"
+}, {
+    "tag": "GENERO",
+    "weight": 232,
+    "kw": "general"
+}, {
+    "tag": "VOS",
+    "weight": 230,
+    "kw": "general"
+}, {
+    "tag": "GRAN",
+    "weight": 229,
+    "kw": "general"
+}, {
+    "tag": "ALWAYS",
+    "weight": 227,
+    "kw": "general"
+}, {
+    "tag": "WILL",
+    "weight": 226,
+    "kw": "general"
+}, {
+    "tag": "NUEVO",
+    "weight": 226,
+    "kw": "general"
+}, {
+    "tag": "MUSIC",
+    "weight": 226,
+    "kw": "general"
+}, {
+    "tag": "SERIES",
+    "weight": 223,
+    "kw": "general"
+}, {
+    "tag": "PSICOLOGIA",
+    "weight": 223,
+    "kw": "general"
+}, {
+    "tag": "DDHH",
+    "weight": 223,
+    "kw": "general"
+}, {
+    "tag": "IGUALDAD",
+    "weight": 219,
+    "kw": "general"
+}, {
+    "tag": "MIEMBRO",
+    "weight": 219,
+    "kw": "general"
+}, {
+    "tag": "NATURALEZA",
+    "weight": 218,
+    "kw": "general"
+}, {
+    "tag": "VERDAD",
+    "weight": 218,
+    "kw": "general"
+}, {
+    "tag": "DEPORTE",
+    "weight": 218,
+    "kw": "general"
+}, {
+    "tag": "PODER",
+    "weight": 217,
+    "kw": "general"
+}, {
+    "tag": "HUMANOS",
+    "weight": 217,
+    "kw": "general"
+}, {
+    "tag": "CANAL",
+    "weight": 217,
+    "kw": "general"
+}, {
+    "tag": "PARTE",
+    "weight": 215,
+    "kw": "general"
+}, {
+    "tag": "HOY",
+    "weight": 214,
+    "kw": "general"
+}, {
+    "tag": "NACI",
+    "weight": 212,
+    "kw": "general"
+}, {
+    "tag": "MENOS",
+    "weight": 212,
+    "kw": "general"
+}, {
+    "tag": "BUENOS",
+    "weight": 211,
+    "kw": "general"
+}, {
+    "tag": "ACA",
+    "weight": 209,
+    "kw": "general"
+}, {
+    "tag": "SOCIALES",
+    "weight": 209,
+    "kw": "general"
+}, {
+    "tag": "SUENOS",
+    "weight": 208,
+    "kw": "general"
+}, {
+    "tag": "HTTPS",
+    "weight": 206,
+    "kw": "general"
+}, {
+    "tag": "CAMINO",
+    "weight": 205,
+    "kw": "general"
+}, {
+    "tag": "SUENO",
+    "weight": 204,
+    "kw": "general"
+}, {
+    "tag": "YOONGI",
+    "weight": 204,
+    "kw": "general"
+}, {
+    "tag": "PUBLICO",
+    "weight": 203,
+    "kw": "general"
+}, {
+    "tag": "PARTIDO",
+    "weight": 203,
+    "kw": "general"
+}, {
+    "tag": "DIGITAL",
+    "weight": 203,
+    "kw": "general"
+}, {
+    "tag": "MISMO",
+    "weight": 203,
+    "kw": "general"
+}, {
+    "tag": "GESTION",
+    "weight": 203,
+    "kw": "general"
+}, {
+    "tag": "ORGANIZACION",
+    "weight": 202,
+    "kw": "general"
+}, {
+    "tag": "HABLO",
+    "weight": 202,
+    "kw": "general"
+}, {
+    "tag": "NEVER",
+    "weight": 202,
+    "kw": "general"
+}, {
+    "tag": "ABORTO",
+    "weight": 201,
+    "kw": "general"
+}, {
+    "tag": "ESCRITOR",
+    "weight": 199,
+    "kw": "general"
+}, {
+    "tag": "CIENCIAS",
+    "weight": 199,
+    "kw": "general"
+}, {
+    "tag": "PERIODISMO",
+    "weight": 199,
+    "kw": "general"
+}, {
+    "tag": "FRENTE",
+    "weight": 199,
+    "kw": "general"
+}, {
+    "tag": "SOCIEDAD",
+    "weight": 197,
+    "kw": "general"
+}, {
+    "tag": "INDEPENDIENTE",
+    "weight": 197,
+    "kw": "general"
+}, {
+    "tag": "ESCRITORA",
+    "weight": 197,
+    "kw": "general"
+}, {
+    "tag": "TIERRA",
+    "weight": 197,
+    "kw": "general"
+}, {
+    "tag": "BUEN",
+    "weight": 197,
+    "kw": "general"
+}, {
+    "tag": "SECRETARIO",
+    "weight": 196,
+    "kw": "general"
+}, {
+    "tag": "PUEDO",
+    "weight": 195,
+    "kw": "general"
+}, {
+    "tag": "TEATRO",
+    "weight": 194,
+    "kw": "general"
+}, {
+    "tag": "LEGAL",
+    "weight": 193,
+    "kw": "general"
+}, {
+    "tag": "DAY",
+    "weight": 191,
+    "kw": "general"
+}, {
+    "tag": "LOVE",
+    "weight": 18,
+    "kw": "planta"
+}, {
+    "tag": "VEGANA",
+    "weight": 34,
+    "kw": "planta"
+}, {
+    "tag": "VEGAN",
+    "weight": 26,
+    "kw": "planta"
+}, {
+    "tag": "ARMY",
+    "weight": 15,
+    "kw": "planta"
+}, {
+    "tag": "NAMJOON",
+    "weight": 14,
+    "kw": "planta"
+}, {
+    "tag": "FAN",
+    "weight": 13,
+    "kw": "planta"
+}, {
+    "tag": "SER",
+    "weight": 13,
+    "kw": "planta"
+}, {
+    "tag": "BANGTAN",
+    "weight": 13,
+    "kw": "planta"
+}, {
+    "tag": "BTS",
+    "weight": 13,
+    "kw": "planta"
+}, {
+    "tag": "ESTUDIANTE",
+    "weight": 11,
+    "kw": "planta"
+}, {
+    "tag": "VEGGIE",
+    "weight": 11,
+    "kw": "planta"
+}, {
+    "tag": "MUNDO",
+    "weight": 11,
+    "kw": "planta"
+}, {
+    "tag": "RE",
+    "weight": 11,
+    "kw": "planta"
+}, {
+    "tag": "GUSTA",
+    "weight": 10,
+    "kw": "planta"
+}, {
+    "tag": "ANIMAL",
+    "weight": 19,
+    "kw": "planta"
+}, {
+    "tag": "POLITICA",
+    "weight": 10,
+    "kw": "planta"
+}, {
+    "tag": "SOCIAL",
+    "weight": 9,
+    "kw": "planta"
+}, {
+    "tag": "STAN",
+    "weight": 9,
+    "kw": "planta"
+}, {
+    "tag": "LIVE",
+    "weight": 9,
+    "kw": "planta"
+}, {
+    "tag": "ANIMALES",
+    "weight": 8,
+    "kw": "planta"
+}, {
+    "tag": "AMANTE",
+    "weight": 8,
+    "kw": "planta"
+}, {
+    "tag": "ACTIVISTA",
+    "weight": 8,
+    "kw": "planta"
+}, {
+    "tag": "COSAS",
+    "weight": 8,
+    "kw": "planta"
+}, {
+    "tag": "ESP",
+    "weight": 8,
+    "kw": "planta"
+}, {
+    "tag": "GUSTAN",
+    "weight": 8,
+    "kw": "planta"
+}, {
+    "tag": "ANTIESPECISTA",
+    "weight": 15,
+    "kw": "planta"
+}, {
+    "tag": "QUIERO",
+    "weight": 7,
+    "kw": "planta"
+}, {
+    "tag": "ALWAYS",
+    "weight": 7,
+    "kw": "planta"
+}, {
+    "tag": "CUENTA",
+    "weight": 7,
+    "kw": "planta"
+}, {
+    "tag": "BIASED",
+    "weight": 7,
+    "kw": "planta"
+}, {
+    "tag": "VEGETARIANA",
+    "weight": 7,
+    "kw": "planta"
+}, {
+    "tag": "FEMINISMO",
+    "weight": 6,
+    "kw": "planta"
+}, {
+    "tag": "SOLO",
+    "weight": 6,
+    "kw": "planta"
+}, {
+    "tag": "WORLD",
+    "weight": 6,
+    "kw": "planta"
+}, {
+    "tag": "GOT",
+    "weight": 6,
+    "kw": "planta"
+}, {
+    "tag": "WILL",
+    "weight": 6,
+    "kw": "planta"
+}, {
+    "tag": "NUNCA",
+    "weight": 6,
+    "kw": "planta"
+}, {
+    "tag": "EXO",
+    "weight": 6,
+    "kw": "planta"
+}, {
+    "tag": "PLANTAS",
+    "weight": 6,
+    "kw": "planta"
+}, {
+    "tag": "VIVO",
+    "weight": 6,
+    "kw": "planta"
+}, {
+    "tag": "VA",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "LUCHA",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "MAMA",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "HEART",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "BIEN",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "WORRIES",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "TRABAJO",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "MOVIMIENTO",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "MULTIFANDOM",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "FUTURA",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "LIC",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "SERIES",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "BANGTANSONYEONDAN",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "FEMINIST",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "ESCRIBO",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "PERSONAL",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "LIBROS",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "NUTRICION",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "LIBRE",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "LEAST",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "FILOSOFIA",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "PLANET",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "INTENTO",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "ARGENTINA",
+    "weight": 5,
+    "kw": "planta"
+}, {
+    "tag": "YOONGI",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "MEJOR",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "RIVER",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "NACIONAL",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "KPOP",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "LOCUTORA",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "STAR",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "SERA",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "POP",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "PAIS",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "DERECHO",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "AMO",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "DIA",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "SPEAK",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "MUSIC",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "CAFE",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "ART",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "VEGETARIAN",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "EVERYTHING",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "FALL",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "SHINE",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "AMBIENTAL",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "BEST",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "DERECHOS",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "STAY",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "TAKE",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "LOL",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "PALABRAS",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "UBA",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "ALIEN",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "ARTE",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "NATURALEZA",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "TAMBIEN",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "BI",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "LIFE",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "CAMBIO",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "SAVE",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "NADIE",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "SONYEONDAN",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "PERSONAS",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "KIND",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "GRANDE",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "JK",
+    "weight": 4,
+    "kw": "planta"
+}, {
+    "tag": "POLITICO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ANIMALS",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "FREEDOM",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "LGTB",
+    "weight": 7,
+    "kw": "planta"
+}, {
+    "tag": "ARTISTA",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "PENSAR",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "KNOW",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "AUS",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "HACER",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "FIRST",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ONE",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "SIGO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "VEZ",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "LGT",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "TNE",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "FANBASE",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "MUJER",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "RADICAL",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "MIEDO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "STUDIES",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "VIDEOJUEGOS",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ABORTO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "MONSTA",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "AMOR",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "POETA",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "CREO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "CAMINO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "PODER",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "SOL",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "GENERAL",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ESTUDIO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "TAEMIN",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "CTA",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "VEG",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ENTHUSIAST",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "RM",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "FOLLOW",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "TAN",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "MUSICO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "MEMES",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "TALENTO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "DAY",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ANSWER",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "GRACIAS",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "VEGANO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "HABLO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "FOOD",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "MILITANTE",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "SHINEE",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "WAYV",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "MISMO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "HTTPS",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "OG",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "LLORAR",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ESPANA",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "NOW",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "POSIBLE",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "PADRE",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ARTES",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "CLUB",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "LUV",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "AGUA",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "GOOD",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "MEDIO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ALGUIEN",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "CUTE",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "BUENA",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "NIGHT",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ROM",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "BISEXUAL",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "NCTZEN",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "PUEDO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "UNICO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "TOMO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "AHORA",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "CORAZON",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "LLORANDO",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "REVOLUCION",
+    "weight": 3,
+    "kw": "planta"
+}, {
+    "tag": "ANTIESPECISMO",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "IMPORTA",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "CREADORA",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "PARECE",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "HISTORIA",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "FOREVER",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "GRATUITO",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "GATO",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "DISENO",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "DIBUJO",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "TSU",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "TRISTES",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "SUPERIOR",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "QUITARON",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "VENEZUELA",
+    "weight": 2,
+    "kw": "planta"
+}, {
+    "tag": "LOVE",
+    "weight": 76,
+    "kw": "rainbow"
+}, {
+    "tag": "FAN",
+    "weight": 51,
+    "kw": "rainbow"
+}, {
+    "tag": "AMOR",
+    "weight": 58,
+    "kw": "rainbow"
+}, {
+    "tag": "SER",
+    "weight": 50,
+    "kw": "rainbow"
+}, {
+    "tag": "SOCIAL",
+    "weight": 45,
+    "kw": "rainbow"
+}, {
+    "tag": "MUNDO",
+    "weight": 44,
+    "kw": "rainbow"
+}, {
+    "tag": "ACTIVISTA",
+    "weight": 42,
+    "kw": "rainbow"
+}, {
+    "tag": "LGBT",
+    "weight": 48,
+    "kw": "rainbow"
+}, {
+    "tag": "COSAS",
+    "weight": 34,
+    "kw": "rainbow"
+}, {
+    "tag": "RE",
+    "weight": 33,
+    "kw": "rainbow"
+}, {
+    "tag": "STAN",
+    "weight": 32,
+    "kw": "rainbow"
+}, {
+    "tag": "GUSTA",
+    "weight": 31,
+    "kw": "rainbow"
+}, {
+    "tag": "NUNCA",
+    "weight": 31,
+    "kw": "rainbow"
+}, {
+    "tag": "GAY",
+    "weight": 35,
+    "kw": "rainbow"
+}, {
+    "tag": "BAP",
+    "weight": 30,
+    "kw": "rainbow"
+}, {
+    "tag": "MUSICA",
+    "weight": 30,
+    "kw": "rainbow"
+}, {
+    "tag": "BTS",
+    "weight": 29,
+    "kw": "rainbow"
+}, {
+    "tag": "ESCRIBO",
+    "weight": 28,
+    "kw": "rainbow"
+}, {
+    "tag": "ESTUDIANTE",
+    "weight": 28,
+    "kw": "rainbow"
+}, {
+    "tag": "LIBERTAD",
+    "weight": 28,
+    "kw": "rainbow"
+}, {
+    "tag": "AMO",
+    "weight": 26,
+    "kw": "rainbow"
+}, {
+    "tag": "LGBTI",
+    "weight": 30,
+    "kw": "rainbow"
+}, {
+    "tag": "ARMY",
+    "weight": 26,
+    "kw": "rainbow"
+}, {
+    "tag": "FEMINISMO",
+    "weight": 24,
+    "kw": "rainbow"
+}, {
+    "tag": "CUENTA",
+    "weight": 24,
+    "kw": "rainbow"
+}, {
+    "tag": "SERA",
+    "weight": 24,
+    "kw": "rainbow"
+}, {
+    "tag": "DDHH",
+    "weight": 24,
+    "kw": "rainbow"
+}, {
+    "tag": "TAMBIEN",
+    "weight": 23,
+    "kw": "rainbow"
+}, {
+    "tag": "VIVO",
+    "weight": 23,
+    "kw": "rainbow"
+}, {
+    "tag": "COMUNICACION",
+    "weight": 23,
+    "kw": "rainbow"
+}, {
+    "tag": "FUTURA",
+    "weight": 23,
+    "kw": "rainbow"
+}, {
+    "tag": "AMANTE",
+    "weight": 23,
+    "kw": "rainbow"
+}, {
+    "tag": "FEMINIST",
+    "weight": 23,
+    "kw": "rainbow"
+}, {
+    "tag": "PSICOLOGIA",
+    "weight": 22,
+    "kw": "rainbow"
+}, {
+    "tag": "BANGTAN",
+    "weight": 22,
+    "kw": "rainbow"
+}, {
+    "tag": "VA",
+    "weight": 22,
+    "kw": "rainbow"
+}, {
+    "tag": "MILITANTE",
+    "weight": 22,
+    "kw": "rainbow"
+}, {
+    "tag": "BI",
+    "weight": 22,
+    "kw": "rainbow"
+}, {
+    "tag": "TIEMPO",
+    "weight": 21,
+    "kw": "rainbow"
+}, {
+    "tag": "ABORTO",
+    "weight": 21,
+    "kw": "rainbow"
+}, {
+    "tag": "ARTIST",
+    "weight": 21,
+    "kw": "rainbow"
+}, {
+    "tag": "LGTBI",
+    "weight": 27,
+    "kw": "rainbow"
+}, {
+    "tag": "SOLO",
+    "weight": 21,
+    "kw": "rainbow"
+}, {
+    "tag": "ARTE",
+    "weight": 21,
+    "kw": "rainbow"
+}, {
+    "tag": "DIRECTOR",
+    "weight": 21,
+    "kw": "rainbow"
+}, {
+    "tag": "POLITICA",
+    "weight": 21,
+    "kw": "rainbow"
+}, {
+    "tag": "CORAZON",
+    "weight": 21,
+    "kw": "rainbow"
+}, {
+    "tag": "REVOLUCION",
+    "weight": 21,
+    "kw": "rainbow"
+}, {
+    "tag": "MADRID",
+    "weight": 20,
+    "kw": "rainbow"
+}, {
+    "tag": "PERIODISTA",
+    "weight": 20,
+    "kw": "rainbow"
+}, {
+    "tag": "TRANS",
+    "weight": 20,
+    "kw": "rainbow"
+}, {
+    "tag": "DERECHOS",
+    "weight": 20,
+    "kw": "rainbow"
+}, {
+    "tag": "MULTIFANDOM",
+    "weight": 19,
+    "kw": "rainbow"
+}, {
+    "tag": "GENERO",
+    "weight": 19,
+    "kw": "rainbow"
+}, {
+    "tag": "QUEEN",
+    "weight": 18,
+    "kw": "rainbow"
+}, {
+    "tag": "LEGAL",
+    "weight": 18,
+    "kw": "rainbow"
+}, {
+    "tag": "DERECHO",
+    "weight": 18,
+    "kw": "rainbow"
+}, {
+    "tag": "LIC",
+    "weight": 18,
+    "kw": "rainbow"
+}, {
+    "tag": "DIVERSIDAD",
+    "weight": 18,
+    "kw": "rainbow"
+}, {
+    "tag": "QUEER",
+    "weight": 18,
+    "kw": "rainbow"
+}, {
+    "tag": "LGT",
+    "weight": 17,
+    "kw": "rainbow"
+}, {
+    "tag": "VIVIR",
+    "weight": 17,
+    "kw": "rainbow"
+}, {
+    "tag": "ARGENTINA",
+    "weight": 17,
+    "kw": "rainbow"
+}, {
+    "tag": "LITTLE",
+    "weight": 17,
+    "kw": "rainbow"
+}, {
+    "tag": "MUJER",
+    "weight": 17,
+    "kw": "rainbow"
+}, {
+    "tag": "CANDADO",
+    "weight": 16,
+    "kw": "rainbow"
+}, {
+    "tag": "GOT",
+    "weight": 16,
+    "kw": "rainbow"
+}, {
+    "tag": "POP",
+    "weight": 16,
+    "kw": "rainbow"
+}, {
+    "tag": "LIFE",
+    "weight": 16,
+    "kw": "rainbow"
+}, {
+    "tag": "LIBRE",
+    "weight": 16,
+    "kw": "rainbow"
+}, {
+    "tag": "CASI",
+    "weight": 16,
+    "kw": "rainbow"
+}, {
+    "tag": "ONE",
+    "weight": 16,
+    "kw": "rainbow"
+}, {
+    "tag": "EDUCACION",
+    "weight": 16,
+    "kw": "rainbow"
+}, {
+    "tag": "LGTB",
+    "weight": 15,
+    "kw": "rainbow"
+}, {
+    "tag": "DON",
+    "weight": 15,
+    "kw": "rainbow"
+}, {
+    "tag": "CINE",
+    "weight": 15,
+    "kw": "rainbow"
+}, {
+    "tag": "QUIERO",
+    "weight": 15,
+    "kw": "rainbow"
+}, {
+    "tag": "MEJOR",
+    "weight": 15,
+    "kw": "rainbow"
+}, {
+    "tag": "KPOP",
+    "weight": 15,
+    "kw": "rainbow"
+}, {
+    "tag": "LOVER",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "INTENTO",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "PERSONAS",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "SEGURO",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "ALWAYS",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "BIASED",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "PERREO",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "CAER",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "ALBA",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "HEART",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "TRABAJO",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "PERONISTA",
+    "weight": 14,
+    "kw": "rainbow"
+}, {
+    "tag": "RECHE",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "BITCH",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "TODAS",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "ARISTEMO",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "TAN",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "WORLD",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "DOCENTE",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "SERIES",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "HISTORIA",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "ANIMALES",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "MIEDO",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "ESP",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "PUEDO",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "BIEN",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "LOCA",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "BT",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "VEZ",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "GRACIAS",
+    "weight": 13,
+    "kw": "rainbow"
+}, {
+    "tag": "HABLO",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "FELIZ",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "IGUALDAD",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "BISEXUAL",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "NB",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "PUTO",
+    "weight": 25,
+    "kw": "rainbow"
+}, {
+    "tag": "LESBIANA",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "CAMILA",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "DIBUJO",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "HACER",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "GUSTAN",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "ESCRITOR",
+    "weight": 12,
+    "kw": "rainbow"
+}, {
+    "tag": "VEGAN",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "UBA",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "BIT",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "PEOPLE",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "MARVEL",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "CACHER",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "LIBROS",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "PATRIARCADO",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "DIA",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "AHORA",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "SALUD",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "HTTPS",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "CULTURA",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "EX",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "CREO",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "NACIONAL",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "SOCIALISTA",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "PERSONAL",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "KEEP",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "BUENA",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "GBT",
+    "weight": 11,
+    "kw": "rainbow"
+}, {
+    "tag": "GENTE",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "NON",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "ESCRITORA",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "FUTURO",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "INTERSECCIONAL",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "AMAR",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "PROCESO",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "WANT",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "NAMJOON",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "DICEN",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "HUMANOS",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "TEATRO",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "SIGO",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "ORGULLO",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "HOMBRE",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "RADIO",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "MADRE",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "CALLE",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "NEVER",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "REAL",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "IZQUIERDA",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "NATALIA",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "SEXUAL",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "LUZ",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "CACHE",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "PROFESIONAL",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "ACTRIZ",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "EVERYTHING",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "YOONGI",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "VIVA",
+    "weight": 10,
+    "kw": "rainbow"
+}, {
+    "tag": "DISIDENTE",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "MADE",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "FOTOS",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "TRASH",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "CO",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "LACUNZA",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "OFICIAL",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "PROFE",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "FOLLOW",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "MX",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "KNOW",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "OPINIONES",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "ACTOR",
+    "weight": 9,
+    "kw": "rainbow"
+}, {
+    "tag": "PERONISTA",
+    "weight": 141,
+    "kw": "mano"
+}, {
+    "tag": "MILITANTE",
+    "weight": 82,
+    "kw": "mano"
+}, {
+    "tag": "PATRIA",
+    "weight": 52,
+    "kw": "mano"
+}, {
+    "tag": "POPULAR",
+    "weight": 51,
+    "kw": "mano"
+}, {
+    "tag": "NACIONAL",
+    "weight": 49,
+    "kw": "mano"
+}, {
+    "tag": "SOCIAL",
+    "weight": 46,
+    "kw": "mano"
+}, {
+    "tag": "CRISTINA",
+    "weight": 46,
+    "kw": "mano"
+}, {
+    "tag": "KIRCHNERISTA",
+    "weight": 43,
+    "kw": "mano"
+}, {
+    "tag": "HINCHA",
+    "weight": 42,
+    "kw": "mano"
+}, {
+    "tag": "ESTUDIANTE",
+    "weight": 38,
+    "kw": "mano"
+}, {
+    "tag": "AMOR",
+    "weight": 37,
+    "kw": "mano"
+}, {
+    "tag": "NESTOR",
+    "weight": 32,
+    "kw": "mano"
+}, {
+    "tag": "SER",
+    "weight": 31,
+    "kw": "mano"
+}, {
+    "tag": "POLITICA",
+    "weight": 28,
+    "kw": "mano"
+}, {
+    "tag": "DOCENTE",
+    "weight": 27,
+    "kw": "mano"
+}, {
+    "tag": "RIVER",
+    "weight": 27,
+    "kw": "mano"
+}, {
+    "tag": "MUSICA",
+    "weight": 22,
+    "kw": "mano"
+}, {
+    "tag": "MEJOR",
+    "weight": 21,
+    "kw": "mano"
+}, {
+    "tag": "PERON",
+    "weight": 21,
+    "kw": "mano"
+}, {
+    "tag": "PERIODISTA",
+    "weight": 21,
+    "kw": "mano"
+}, {
+    "tag": "LIC",
+    "weight": 20,
+    "kw": "mano"
+}, {
+    "tag": "PUEBLO",
+    "weight": 20,
+    "kw": "mano"
+}, {
+    "tag": "MUNDO",
+    "weight": 20,
+    "kw": "mano"
+}, {
+    "tag": "AMO",
+    "weight": 20,
+    "kw": "mano"
+}, {
+    "tag": "UBA",
+    "weight": 20,
+    "kw": "mano"
+}, {
+    "tag": "TROPAK",
+    "weight": 19,
+    "kw": "mano"
+}, {
+    "tag": "COMUNICACION",
+    "weight": 19,
+    "kw": "mano"
+}, {
+    "tag": "BOCA",
+    "weight": 18,
+    "kw": "mano"
+}, {
+    "tag": "SOLO",
+    "weight": 17,
+    "kw": "mano"
+}, {
+    "tag": "ARGENTINA",
+    "weight": 17,
+    "kw": "mano"
+}, {
+    "tag": "FUTURA",
+    "weight": 17,
+    "kw": "mano"
+}, {
+    "tag": "FAN",
+    "weight": 17,
+    "kw": "mano"
+}, {
+    "tag": "NUNCA",
+    "weight": 17,
+    "kw": "mano"
+}, {
+    "tag": "MAMA",
+    "weight": 17,
+    "kw": "mano"
+}, {
+    "tag": "PROYECTO",
+    "weight": 16,
+    "kw": "mano"
+}, {
+    "tag": "POP",
+    "weight": 16,
+    "kw": "mano"
+}, {
+    "tag": "TRABAJO",
+    "weight": 16,
+    "kw": "mano"
+}, {
+    "tag": "FRENTE",
+    "weight": 16,
+    "kw": "mano"
+}, {
+    "tag": "GRACIAS",
+    "weight": 16,
+    "kw": "mano"
+}, {
+    "tag": "NAC",
+    "weight": 15,
+    "kw": "mano"
+}, {
+    "tag": "AMANTE",
+    "weight": 15,
+    "kw": "mano"
+}, {
+    "tag": "HISTORIA",
+    "weight": 15,
+    "kw": "mano"
+}, {
+    "tag": "JUSTICIA",
+    "weight": 14,
+    "kw": "mano"
+}, {
+    "tag": "CFK",
+    "weight": 14,
+    "kw": "mano"
+}, {
+    "tag": "DIA",
+    "weight": 14,
+    "kw": "mano"
+}, {
+    "tag": "LOVE",
+    "weight": 14,
+    "kw": "mano"
+}, {
+    "tag": "GUSTA",
+    "weight": 14,
+    "kw": "mano"
+}, {
+    "tag": "EVITA",
+    "weight": 14,
+    "kw": "mano"
+}, {
+    "tag": "DIOS",
+    "weight": 14,
+    "kw": "mano"
+}, {
+    "tag": "MUJER",
+    "weight": 14,
+    "kw": "mano"
+}, {
+    "tag": "ODIO",
+    "weight": 13,
+    "kw": "mano"
+}, {
+    "tag": "COSAS",
+    "weight": 13,
+    "kw": "mano"
+}, {
+    "tag": "GRANDE",
+    "weight": 13,
+    "kw": "mano"
+}, {
+    "tag": "VIVIR",
+    "weight": 13,
+    "kw": "mano"
+}, {
+    "tag": "PUTA",
+    "weight": 12,
+    "kw": "mano"
+}, {
+    "tag": "MADRE",
+    "weight": 12,
+    "kw": "mano"
+}, {
+    "tag": "FAMILIA",
+    "weight": 12,
+    "kw": "mano"
+}, {
+    "tag": "DERECHO",
+    "weight": 12,
+    "kw": "mano"
+}, {
+    "tag": "REVOLUCION",
+    "weight": 12,
+    "kw": "mano"
+}, {
+    "tag": "SERA",
+    "weight": 12,
+    "kw": "mano"
+}, {
+    "tag": "SIGO",
+    "weight": 12,
+    "kw": "mano"
+}, {
+    "tag": "CORAZON",
+    "weight": 12,
+    "kw": "mano"
+}, {
+    "tag": "VOLVER",
+    "weight": 11,
+    "kw": "mano"
+}, {
+    "tag": "MUERTE",
+    "weight": 11,
+    "kw": "mano"
+}, {
+    "tag": "CLUB",
+    "weight": 11,
+    "kw": "mano"
+}, {
+    "tag": "VAMOS",
+    "weight": 11,
+    "kw": "mano"
+}, {
+    "tag": "TEATRO",
+    "weight": 11,
+    "kw": "mano"
+}, {
+    "tag": "CUENTA",
+    "weight": 11,
+    "kw": "mano"
+}, {
+    "tag": "ROCK",
+    "weight": 11,
+    "kw": "mano"
+}, {
+    "tag": "LIBERTAD",
+    "weight": 10,
+    "kw": "mano"
+}, {
+    "tag": "EVA",
+    "weight": 10,
+    "kw": "mano"
+}, {
+    "tag": "PAPA",
+    "weight": 10,
+    "kw": "mano"
+}, {
+    "tag": "PROFE",
+    "weight": 10,
+    "kw": "mano"
+}, {
+    "tag": "VA",
+    "weight": 10,
+    "kw": "mano"
+}, {
+    "tag": "TODAS",
+    "weight": 10,
+    "kw": "mano"
+}, {
+    "tag": "ABORTO",
+    "weight": 10,
+    "kw": "mano"
+}, {
+    "tag": "LEGAL",
+    "weight": 10,
+    "kw": "mano"
+}, {
+    "tag": "PERONCHA",
+    "weight": 10,
+    "kw": "mano"
+}, {
+    "tag": "JUNTO",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "MENOS",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "TIEMPO",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "CAMPORA",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "UNLP",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "LADO",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "YEGUA",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "VIVO",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "CREO",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "CONCEJAL",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "FERNANDEZ",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "AHORA",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "VENCE",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "FERNANDEZFERNANDEZ",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "SUENO",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "HLVS",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "PRESIDENTE",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "BOSTERO",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "TRABAJADORA",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "VICTORIA",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "BLOQUEO",
+    "weight": 9,
+    "kw": "mano"
+}, {
+    "tag": "IGUALDAD",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "VIVA",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "PAIS",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "VOS",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "VOLVEREMOS",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "DERECHOS",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "EDUCACION",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "TAMBIEN",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "UNR",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "RACING",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "MACRI",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "FELIZ",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "KUKA",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "TODA",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "GENTE",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "DIAS",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "PLATE",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "FEMINISMO",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "CONVICCION",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "ABOGACIA",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "ALMA",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "ABOGADA",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "PASION",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "FRENTEDETODOS",
+    "weight": 8,
+    "kw": "mano"
+}, {
+    "tag": "CENTRAL",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "PUEDE",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "PADRE",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "PARTE",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "ACTIVISTA",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "CIENCIA",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "ARTE",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "SECRETARIO",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "HIJO",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "EX",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "NUEVO",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "VEZ",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "MOVIMIENTO",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "VOY",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "LUCHA",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "DEMAS",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "ATLETICO",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "SANDINISTA",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "SEGURO",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "FELICES",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "ENCUENTRO",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "LIBRE",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "BUENA",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "ARGENTINO",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "SERALEY",
+    "weight": 7,
+    "kw": "mano"
+}, {
+    "tag": "CANTANTE",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "MONTONERA",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "ABOGADO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "PROCESO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "ESTUDIO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "HOMBRE",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "DEJA",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "BIEN",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "MADRID",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "SINO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "RE",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "BUENOS",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "MODELO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "ABORTOLEGALYA",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "JUVENTUD",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "PERONISMO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "MEJORES",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "UNCUYO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "VIVE",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "ARMY",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "POLITICO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "DOS",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "BOSTERA",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "TODS",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "COMIDA",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "CIUDAD",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "GRATUITO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "PERSONAL",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "RADIO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "ARISTEMO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "ESPACIO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "HACE",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "ARTISTA",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "FUTURO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "PSICOLOGIA",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "PERIODISMO",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "PROVINCIAL",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "SERIES",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "CS",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "CINE",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "NACI",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "DIPUTADA",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "OFICIAL",
+    "weight": 6,
+    "kw": "mano"
+}, {
+    "tag": "PIENSO",
+    "weight": 5,
+    "kw": "mano"
+}, {
+    "tag": "CORDOBA",
+    "weight": 5,
+    "kw": "mano"
+}, {
+    "tag": "LIBROS",
+    "weight": 5,
+    "kw": "mano"
+}, {
+    "tag": "FAVOR",
+    "weight": 5,
+    "kw": "mano"
+}, {
+    "tag": "PJ",
+    "weight": 5,
+    "kw": "mano"
+}, {
+    "tag": "DEMOCRATICA",
+    "weight": 5,
+    "kw": "mano"
+}, {
+    "tag": "POESIA",
+    "weight": 5,
+    "kw": "mano"
+}, {
+    "tag": "PATRIARCADO",
+    "weight": 5,
+    "kw": "mano"
+}, {
+    "tag": "FAN",
+    "weight": 96,
+    "kw": "glitter"
+}, {
+    "tag": "LOVE",
+    "weight": 87,
+    "kw": "glitter"
+}, {
+    "tag": "BTS",
+    "weight": 49,
+    "kw": "glitter"
+}, {
+    "tag": "STAN",
+    "weight": 42,
+    "kw": "glitter"
+}, {
+    "tag": "SER",
+    "weight": 41,
+    "kw": "glitter"
+}, {
+    "tag": "ARMY",
+    "weight": 41,
+    "kw": "glitter"
+}, {
+    "tag": "BANGTAN",
+    "weight": 35,
+    "kw": "glitter"
+}, {
+    "tag": "AMOR",
+    "weight": 34,
+    "kw": "glitter"
+}, {
+    "tag": "MUNDO",
+    "weight": 29,
+    "kw": "glitter"
+}, {
+    "tag": "RE",
+    "weight": 28,
+    "kw": "glitter"
+}, {
+    "tag": "MUSICA",
+    "weight": 25,
+    "kw": "glitter"
+}, {
+    "tag": "AMO",
+    "weight": 25,
+    "kw": "glitter"
+}, {
+    "tag": "CUENTA",
+    "weight": 24,
+    "kw": "glitter"
+}, {
+    "tag": "ESP",
+    "weight": 22,
+    "kw": "glitter"
+}, {
+    "tag": "SOLO",
+    "weight": 22,
+    "kw": "glitter"
+}, {
+    "tag": "NUNCA",
+    "weight": 21,
+    "kw": "glitter"
+}, {
+    "tag": "BIASED",
+    "weight": 21,
+    "kw": "glitter"
+}, {
+    "tag": "VIVO",
+    "weight": 20,
+    "kw": "glitter"
+}, {
+    "tag": "ONE",
+    "weight": 20,
+    "kw": "glitter"
+}, {
+    "tag": "ARTE",
+    "weight": 20,
+    "kw": "glitter"
+}, {
+    "tag": "EXO",
+    "weight": 20,
+    "kw": "glitter"
+}, {
+    "tag": "GOT",
+    "weight": 19,
+    "kw": "glitter"
+}, {
+    "tag": "SOCIAL",
+    "weight": 19,
+    "kw": "glitter"
+}, {
+    "tag": "NEVER",
+    "weight": 19,
+    "kw": "glitter"
+}, {
+    "tag": "MULTIFANDOM",
+    "weight": 18,
+    "kw": "glitter"
+}, {
+    "tag": "WORLD",
+    "weight": 18,
+    "kw": "glitter"
+}, {
+    "tag": "MEJOR",
+    "weight": 18,
+    "kw": "glitter"
+}, {
+    "tag": "DON",
+    "weight": 18,
+    "kw": "glitter"
+}, {
+    "tag": "CORAZON",
+    "weight": 17,
+    "kw": "glitter"
+}, {
+    "tag": "BANGTANSONYEONDAN",
+    "weight": 17,
+    "kw": "glitter"
+}, {
+    "tag": "QUIERO",
+    "weight": 17,
+    "kw": "glitter"
+}, {
+    "tag": "GUSTA",
+    "weight": 16,
+    "kw": "glitter"
+}, {
+    "tag": "COSAS",
+    "weight": 16,
+    "kw": "glitter"
+}, {
+    "tag": "VA",
+    "weight": 16,
+    "kw": "glitter"
+}, {
+    "tag": "JIMIN",
+    "weight": 15,
+    "kw": "glitter"
+}, {
+    "tag": "BIEN",
+    "weight": 14,
+    "kw": "glitter"
+}, {
+    "tag": "SUENOS",
+    "weight": 14,
+    "kw": "glitter"
+}, {
+    "tag": "VOY",
+    "weight": 14,
+    "kw": "glitter"
+}, {
+    "tag": "CAMILA",
+    "weight": 14,
+    "kw": "glitter"
+}, {
+    "tag": "AMANTE",
+    "weight": 14,
+    "kw": "glitter"
+}, {
+    "tag": "PSICOLOGIA",
+    "weight": 14,
+    "kw": "glitter"
+}, {
+    "tag": "ESCRIBO",
+    "weight": 14,
+    "kw": "glitter"
+}, {
+    "tag": "ARGENTINA",
+    "weight": 14,
+    "kw": "glitter"
+}, {
+    "tag": "ESTUDIANTE",
+    "weight": 13,
+    "kw": "glitter"
+}, {
+    "tag": "PERSONAS",
+    "weight": 13,
+    "kw": "glitter"
+}, {
+    "tag": "DIA",
+    "weight": 13,
+    "kw": "glitter"
+}, {
+    "tag": "ABRACE",
+    "weight": 13,
+    "kw": "glitter"
+}, {
+    "tag": "ALWAYS",
+    "weight": 13,
+    "kw": "glitter"
+}, {
+    "tag": "LINE",
+    "weight": 13,
+    "kw": "glitter"
+}, {
+    "tag": "YOONGI",
+    "weight": 13,
+    "kw": "glitter"
+}, {
+    "tag": "POP",
+    "weight": 13,
+    "kw": "glitter"
+}, {
+    "tag": "TIEMPO",
+    "weight": 13,
+    "kw": "glitter"
+}, {
+    "tag": "HISTORIA",
+    "weight": 12,
+    "kw": "glitter"
+}, {
+    "tag": "LIFE",
+    "weight": 12,
+    "kw": "glitter"
+}, {
+    "tag": "FOLLOW",
+    "weight": 12,
+    "kw": "glitter"
+}, {
+    "tag": "FEMINISMO",
+    "weight": 12,
+    "kw": "glitter"
+}, {
+    "tag": "CONOCI",
+    "weight": 12,
+    "kw": "glitter"
+}, {
+    "tag": "QUEEN",
+    "weight": 12,
+    "kw": "glitter"
+}, {
+    "tag": "FELIZ",
+    "weight": 12,
+    "kw": "glitter"
+}, {
+    "tag": "VOICE",
+    "weight": 12,
+    "kw": "glitter"
+}, {
+    "tag": "TEAM",
+    "weight": 12,
+    "kw": "glitter"
+}, {
+    "tag": "SERA",
+    "weight": 11,
+    "kw": "glitter"
+}, {
+    "tag": "YOUTUBER",
+    "weight": 11,
+    "kw": "glitter"
+}, {
+    "tag": "NADIE",
+    "weight": 11,
+    "kw": "glitter"
+}, {
+    "tag": "GUSTAN",
+    "weight": 11,
+    "kw": "glitter"
+}, {
+    "tag": "ANIME",
+    "weight": 11,
+    "kw": "glitter"
+}, {
+    "tag": "SHAWN",
+    "weight": 11,
+    "kw": "glitter"
+}, {
+    "tag": "LIBROS",
+    "weight": 11,
+    "kw": "glitter"
+}, {
+    "tag": "ART",
+    "weight": 11,
+    "kw": "glitter"
+}, {
+    "tag": "CREO",
+    "weight": 11,
+    "kw": "glitter"
+}, {
+    "tag": "MEXICO",
+    "weight": 11,
+    "kw": "glitter"
+}, {
+    "tag": "LIBERTAD",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "LITTLE",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "MUSIC",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "WANT",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "REVOLUCION",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "LUZ",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "BOCA",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "WILL",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "TWITCH",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "CLUB",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "REAL",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "HACER",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "MAMA",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "ALMA",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "VOS",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "ARTIST",
+    "weight": 10,
+    "kw": "glitter"
+}, {
+    "tag": "PUEDO",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "COMUNICACION",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "CAFE",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "TRABAJO",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "GIRL",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "HEART",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "SAVE",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "GRANDE",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "TAMBIEN",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "DIAS",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "DREAM",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "MAKE",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "MANANA",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "SERIES",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "LOVER",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "DICEN",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "TAEHYUNG",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "TODA",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "NAMJOON",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "GRACIAS",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "KIM",
+    "weight": 9,
+    "kw": "glitter"
+}, {
+    "tag": "NON",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "EVERYTHING",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "RELIGION",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "MAGIA",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "PERSONA",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "TAN",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "FELICIDAD",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "PROUD",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "NACI",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "VERDAD",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "PERONISTA",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "DAY",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "NUEVO",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "TODAS",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "STAY",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "ARTISTA",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "ENTHUSIAST",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "PONER",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "MADE",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "EUPHORIA",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "KNOW",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "ESCRIBIR",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "DIE",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "CONTIGO",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "HOSEOK",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "STARS",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "BAD",
+    "weight": 8,
+    "kw": "glitter"
+}, {
+    "tag": "DEJA",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "VIVIR",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "NATALIA",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "DISTANCIA",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "JUNGKOOK",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "IDOLOS",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "MARVEL",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "NOW",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "CALLE",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "COME",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "GOOD",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "FUTURA",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "FANDOM",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "HACE",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "CAUSE",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "VI",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "MISMO",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "PUEDE",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "ANIMALES",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "MIEDO",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "ESTRELLAS",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "POCHE",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "HOY",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "OJOS",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "ATEEZ",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "PERIODISTA",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "TWEETS",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "SIGO",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "MX",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "VIVE",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "FALL",
+    "weight": 7,
+    "kw": "glitter"
+}, {
+    "tag": "PLEASE",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "RM",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "FOREVER",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "EXISTE",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "SABES",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "HOLA",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "UBA",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "WAN",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "NOTIFICACIONES",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "LUNA",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "LM",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "PODER",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "AU",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "BABY",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "LUCHA",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "PARK",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "CASI",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "ALTO",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "POESIA",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "TXT",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "LIGHT",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "HARRY",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "WRITER",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "TIME",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "REALIDAD",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "LIVE",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "CINE",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "CHILE",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "ENAMORADA",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "PASO",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "PROMISE",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "LESS",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "EDUCACION",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "KIDS",
+    "weight": 6,
+    "kw": "glitter"
+}, {
+    "tag": "PERONISTA",
+    "weight": 73,
+    "kw": "sol"
+}, {
+    "tag": "MILITANTE",
+    "weight": 58,
+    "kw": "sol"
+}, {
+    "tag": "NACIONAL",
+    "weight": 43,
+    "kw": "sol"
+}, {
+    "tag": "POPULAR",
+    "weight": 38,
+    "kw": "sol"
+}, {
+    "tag": "FRENTE",
+    "weight": 33,
+    "kw": "sol"
+}, {
+    "tag": "PATRIA",
+    "weight": 24,
+    "kw": "sol"
+}, {
+    "tag": "DOCENTE",
+    "weight": 23,
+    "kw": "sol"
+}, {
+    "tag": "COSAS",
+    "weight": 23,
+    "kw": "sol"
+}, {
+    "tag": "SOCIAL",
+    "weight": 23,
+    "kw": "sol"
+}, {
+    "tag": "POLITICA",
+    "weight": 22,
+    "kw": "sol"
+}, {
+    "tag": "UBA",
+    "weight": 21,
+    "kw": "sol"
+}, {
+    "tag": "KIRCHNERISTA",
+    "weight": 22,
+    "kw": "sol"
+}, {
+    "tag": "CRISTINA",
+    "weight": 23,
+    "kw": "sol"
+}, {
+    "tag": "ESTUDIANTE",
+    "weight": 18,
+    "kw": "sol"
+}, {
+    "tag": "MAMA",
+    "weight": 17,
+    "kw": "sol"
+}, {
+    "tag": "AMOR",
+    "weight": 17,
+    "kw": "sol"
+}, {
+    "tag": "PERON",
+    "weight": 17,
+    "kw": "sol"
+}, {
+    "tag": "MUNDO",
+    "weight": 17,
+    "kw": "sol"
+}, {
+    "tag": "HINCHA",
+    "weight": 16,
+    "kw": "sol"
+}, {
+    "tag": "FAN",
+    "weight": 16,
+    "kw": "sol"
+}, {
+    "tag": "CANDIDATA",
+    "weight": 16,
+    "kw": "sol"
+}, {
+    "tag": "LIC",
+    "weight": 16,
+    "kw": "sol"
+}, {
+    "tag": "PERIODISTA",
+    "weight": 16,
+    "kw": "sol"
+}, {
+    "tag": "TODS",
+    "weight": 15,
+    "kw": "sol"
+}, {
+    "tag": "RIVER",
+    "weight": 14,
+    "kw": "sol"
+}, {
+    "tag": "CUENTA",
+    "weight": 14,
+    "kw": "sol"
+}, {
+    "tag": "FEMINISMO",
+    "weight": 14,
+    "kw": "sol"
+}, {
+    "tag": "SER",
+    "weight": 14,
+    "kw": "sol"
+}, {
+    "tag": "NUNCA",
+    "weight": 14,
+    "kw": "sol"
+}, {
+    "tag": "LOVE",
+    "weight": 14,
+    "kw": "sol"
+}, {
+    "tag": "MUSICA",
+    "weight": 14,
+    "kw": "sol"
+}, {
+    "tag": "GUSTA",
+    "weight": 13,
+    "kw": "sol"
+}, {
+    "tag": "BOCA",
+    "weight": 13,
+    "kw": "sol"
+}, {
+    "tag": "FRENTEDETODOS",
+    "weight": 12,
+    "kw": "sol"
+}, {
+    "tag": "HISTORIA",
+    "weight": 12,
+    "kw": "sol"
+}, {
+    "tag": "SERA",
+    "weight": 11,
+    "kw": "sol"
+}, {
+    "tag": "ALMA",
+    "weight": 11,
+    "kw": "sol"
+}, {
+    "tag": "COMUNICACION",
+    "weight": 11,
+    "kw": "sol"
+}, {
+    "tag": "BIEN",
+    "weight": 11,
+    "kw": "sol"
+}, {
+    "tag": "DIPUTADA",
+    "weight": 11,
+    "kw": "sol"
+}, {
+    "tag": "PAPA",
+    "weight": 11,
+    "kw": "sol"
+}, {
+    "tag": "VEZ",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "AMO",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "STAN",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "RECHE",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "TODAS",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "TRABAJO",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "JUSTICIA",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "AMANTE",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "NESTOR",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "CAMPORA",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "SUENO",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "CONCEJAL",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "DERECHO",
+    "weight": 10,
+    "kw": "sol"
+}, {
+    "tag": "GENTE",
+    "weight": 9,
+    "kw": "sol"
+}, {
+    "tag": "VIVO",
+    "weight": 9,
+    "kw": "sol"
+}, {
+    "tag": "EX",
+    "weight": 9,
+    "kw": "sol"
+}, {
+    "tag": "CIENCIA",
+    "weight": 9,
+    "kw": "sol"
+}, {
+    "tag": "NADIE",
+    "weight": 9,
+    "kw": "sol"
+}, {
+    "tag": "PERSONAL",
+    "weight": 9,
+    "kw": "sol"
+}, {
+    "tag": "CANDIDATO",
+    "weight": 9,
+    "kw": "sol"
+}, {
+    "tag": "ABOGADO",
+    "weight": 9,
+    "kw": "sol"
+}, {
+    "tag": "PUEBLO",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "ENCUENTRO",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "BUENOS",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "REVOLUCION",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "NUEVO",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "UNLP",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "FELIZ",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "PSICOLOGIA",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "CLUB",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "MEJOR",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "EVITA",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "BOSTERO",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "DIA",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "ABOGADA",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "ACA",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "HACER",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "FERNANDEZ",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "POP",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "MADRE",
+    "weight": 8,
+    "kw": "sol"
+}, {
+    "tag": "KUKA",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "LADO",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "CAMINO",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "CFKARGENTINA",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "PROYECTO",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "POLITICO",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "ROCK",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "HIJO",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "UNR",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "ARGENTINA",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "CORAZON",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "GRANDE",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "AIRES",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "HACE",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "ALBA",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "ARMY",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "TAMBIEN",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "EDUCACION",
+    "weight": 7,
+    "kw": "sol"
+}, {
+    "tag": "RACING",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "GRAN",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "EMILIO",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "PUTA",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "VOY",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "VICTORIA",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "CFK",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "FUTURA",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "CONCEJALA",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "CASI",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "PRENSA",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "GENERAL",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "PRESIDENTE",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "SOL",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "PERONISMO",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "PERIODISMO",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "UNIDAD",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "SOLO",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "QUIERO",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "VINO",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "LIFE",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "TIEMPO",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "CIUDAD",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "HS",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "HOY",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "LIBROS",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "BANGTANSONYEONDAN",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "PJ",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "BTS",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "TRES",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "FOTOS",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "NAC",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "PUEDE",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "ABOGACIA",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "VAMOS",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "POLITOLOGO",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "LETRAS",
+    "weight": 6,
+    "kw": "sol"
+}, {
+    "tag": "UNMDP",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "TRABAJADORA",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "VIVIR",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "AC",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "OFICIAL",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "SEGURO",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "PROVINCIA",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "ARTE",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "ESCRIBO",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "INTENTO",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "INDEPENDIENTE",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "EMILIACO",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "ESTUDIO",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "CENTRAL",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "VENGO",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "SIGO",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "MAI",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "PADRE",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "MISMA",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "ABORTOLEGALYA",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "CAMILA",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "RECHISTA",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "HABLAR",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "DOS",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "RELACIONES",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "LUGAR",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "IGUALDAD",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "LIBRE",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "PARTIDO",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "MEMES",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "MUJER",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "CONCIENCIA",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "ESTAN",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "CIUDADANA",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "ASI",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "SERIES",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "SUERTE",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "TODA",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "PLATA",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "DAY",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "VOLVER",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "FUEGO",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "MARVEL",
+    "weight": 5,
+    "kw": "sol"
+}, {
+    "tag": "SUN",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "ONE",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "MUSICO",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "FUNDAMENTALISTA",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "TODXS",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "EVA",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "BELLEZA",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "HOSEOK",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "FELICIDAD",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "SANTA",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "PROFE",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "PORTENA",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "VIAJAR",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "MDP",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "FRENTEDETOD",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "CASA",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "AI",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "ESCOLAR",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "INTENDENTA",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "MIA",
+    "weight": 4,
+    "kw": "sol"
+}, {
+    "tag": "FEMINISTA",
+    "weight": 734,
+    "kw": "corazones"
+}, {
+    "tag": "ARMY",
+    "weight": 201,
+    "kw": "corazones"
+}, {
+    "tag": "SOCIAL",
+    "weight": 189,
+    "kw": "corazones"
+}, {
+    "tag": "ESTUDIANTE",
+    "weight": 181,
+    "kw": "corazones"
+}, {
+    "tag": "LOVE",
+    "weight": 167,
+    "kw": "corazones"
+}, {
+    "tag": "SER",
+    "weight": 162,
+    "kw": "corazones"
+}, {
+    "tag": "FAN",
+    "weight": 162,
+    "kw": "corazones"
+}, {
+    "tag": "BTS",
+    "weight": 157,
+    "kw": "corazones"
+}, {
+    "tag": "AMOR",
+    "weight": 149,
+    "kw": "corazones"
+}, {
+    "tag": "MILITANTE",
+    "weight": 148,
+    "kw": "corazones"
+}, {
+    "tag": "SERA",
+    "weight": 148,
+    "kw": "corazones"
+}, {
+    "tag": "PERIODISTA",
+    "weight": 142,
+    "kw": "corazones"
+}, {
+    "tag": "ABORTO",
+    "weight": 125,
+    "kw": "corazones"
+}, {
+    "tag": "LEGAL",
+    "weight": 118,
+    "kw": "corazones"
+}, {
+    "tag": "VA",
+    "weight": 110,
+    "kw": "corazones"
+}, {
+    "tag": "AMO",
+    "weight": 105,
+    "kw": "corazones"
+}, {
+    "tag": "HINCHA",
+    "weight": 103,
+    "kw": "corazones"
+}, {
+    "tag": "PERONISTA",
+    "weight": 99,
+    "kw": "corazones"
+}, {
+    "tag": "MUNDO",
+    "weight": 99,
+    "kw": "corazones"
+}, {
+    "tag": "RIVER",
+    "weight": 98,
+    "kw": "corazones"
+}, {
+    "tag": "MAMA",
+    "weight": 97,
+    "kw": "corazones"
+}, {
+    "tag": "UBA",
+    "weight": 95,
+    "kw": "corazones"
+}, {
+    "tag": "REVOLUCION",
+    "weight": 95,
+    "kw": "corazones"
+}, {
+    "tag": "NUNCA",
+    "weight": 95,
+    "kw": "corazones"
+}, {
+    "tag": "LIC",
+    "weight": 93,
+    "kw": "corazones"
+}, {
+    "tag": "MUSICA",
+    "weight": 92,
+    "kw": "corazones"
+}, {
+    "tag": "BANGTAN",
+    "weight": 87,
+    "kw": "corazones"
+}, {
+    "tag": "NACIONAL",
+    "weight": 87,
+    "kw": "corazones"
+}, {
+    "tag": "COMUNICACION",
+    "weight": 86,
+    "kw": "corazones"
+}, {
+    "tag": "POLITICA",
+    "weight": 84,
+    "kw": "corazones"
+}, {
+    "tag": "FEMINISMO",
+    "weight": 82,
+    "kw": "corazones"
+}, {
+    "tag": "FUTURA",
+    "weight": 81,
+    "kw": "corazones"
+}, {
+    "tag": "COSAS",
+    "weight": 77,
+    "kw": "corazones"
+}, {
+    "tag": "POPULAR",
+    "weight": 76,
+    "kw": "corazones"
+}, {
+    "tag": "DOCENTE",
+    "weight": 74,
+    "kw": "corazones"
+}, {
+    "tag": "TRABAJO",
+    "weight": 73,
+    "kw": "corazones"
+}, {
+    "tag": "BOCA",
+    "weight": 72,
+    "kw": "corazones"
+}, {
+    "tag": "ESCRIBO",
+    "weight": 72,
+    "kw": "corazones"
+}, {
+    "tag": "ARGENTINA",
+    "weight": 72,
+    "kw": "corazones"
+}, {
+    "tag": "CUENTA",
+    "weight": 71,
+    "kw": "corazones"
+}, {
+    "tag": "MADRE",
+    "weight": 70,
+    "kw": "corazones"
+}, {
+    "tag": "DERECHO",
+    "weight": 69,
+    "kw": "corazones"
+}, {
+    "tag": "QUIERO",
+    "weight": 69,
+    "kw": "corazones"
+}, {
+    "tag": "CORAZON",
+    "weight": 69,
+    "kw": "corazones"
+}, {
+    "tag": "SEGURO",
+    "weight": 68,
+    "kw": "corazones"
+}, {
+    "tag": "GUSTA",
+    "weight": 66,
+    "kw": "corazones"
+}, {
+    "tag": "ABORTOLEGALYA",
+    "weight": 66,
+    "kw": "corazones"
+}, {
+    "tag": "MEJOR",
+    "weight": 65,
+    "kw": "corazones"
+}, {
+    "tag": "LIBERTAD",
+    "weight": 64,
+    "kw": "corazones"
+}, {
+    "tag": "CAER",
+    "weight": 62,
+    "kw": "corazones"
+}, {
+    "tag": "PSICOLOGIA",
+    "weight": 62,
+    "kw": "corazones"
+}, {
+    "tag": "MUJER",
+    "weight": 61,
+    "kw": "corazones"
+}, {
+    "tag": "SOLO",
+    "weight": 60,
+    "kw": "corazones"
+}, {
+    "tag": "BIASED",
+    "weight": 59,
+    "kw": "corazones"
+}, {
+    "tag": "EDUCACION",
+    "weight": 58,
+    "kw": "corazones"
+}, {
+    "tag": "GRATUITO",
+    "weight": 58,
+    "kw": "corazones"
+}, {
+    "tag": "VIVIR",
+    "weight": 58,
+    "kw": "corazones"
+}, {
+    "tag": "AMANTE",
+    "weight": 56,
+    "kw": "corazones"
+}, {
+    "tag": "LIBRE",
+    "weight": 55,
+    "kw": "corazones"
+}, {
+    "tag": "ROCK",
+    "weight": 54,
+    "kw": "corazones"
+}, {
+    "tag": "DIA",
+    "weight": 54,
+    "kw": "corazones"
+}, {
+    "tag": "FELIZ",
+    "weight": 53,
+    "kw": "corazones"
+}, {
+    "tag": "ABOGADA",
+    "weight": 52,
+    "kw": "corazones"
+}, {
+    "tag": "PERSONAL",
+    "weight": 51,
+    "kw": "corazones"
+}, {
+    "tag": "VIVO",
+    "weight": 50,
+    "kw": "corazones"
+}, {
+    "tag": "ACTIVISTA",
+    "weight": 49,
+    "kw": "corazones"
+}, {
+    "tag": "ALMA",
+    "weight": 49,
+    "kw": "corazones"
+}, {
+    "tag": "LEY",
+    "weight": 48,
+    "kw": "corazones"
+}, {
+    "tag": "STAN",
+    "weight": 47,
+    "kw": "corazones"
+}, {
+    "tag": "BIEN",
+    "weight": 47,
+    "kw": "corazones"
+}, {
+    "tag": "PATRIA",
+    "weight": 47,
+    "kw": "corazones"
+}, {
+    "tag": "CLUB",
+    "weight": 46,
+    "kw": "corazones"
+}, {
+    "tag": "PROFE",
+    "weight": 45,
+    "kw": "corazones"
+}, {
+    "tag": "AHORA",
+    "weight": 45,
+    "kw": "corazones"
+}, {
+    "tag": "VOS",
+    "weight": 45,
+    "kw": "corazones"
+}, {
+    "tag": "TAMBIEN",
+    "weight": 44,
+    "kw": "corazones"
+}, {
+    "tag": "HISTORIA",
+    "weight": 44,
+    "kw": "corazones"
+}, {
+    "tag": "HACE",
+    "weight": 44,
+    "kw": "corazones"
+}, {
+    "tag": "CIENCIA",
+    "weight": 43,
+    "kw": "corazones"
+}, {
+    "tag": "ARTE",
+    "weight": 42,
+    "kw": "corazones"
+}, {
+    "tag": "GOT",
+    "weight": 42,
+    "kw": "corazones"
+}, {
+    "tag": "TODAS",
+    "weight": 42,
+    "kw": "corazones"
+}, {
+    "tag": "VEZ",
+    "weight": 42,
+    "kw": "corazones"
+}, {
+    "tag": "UNLP",
+    "weight": 41,
+    "kw": "corazones"
+}, {
+    "tag": "RE",
+    "weight": 40,
+    "kw": "corazones"
+}, {
+    "tag": "HABLO",
+    "weight": 40,
+    "kw": "corazones"
+}, {
+    "tag": "NADIE",
+    "weight": 40,
+    "kw": "corazones"
+}, {
+    "tag": "PIBAS",
+    "weight": 39,
+    "kw": "corazones"
+}, {
+    "tag": "CASI",
+    "weight": 39,
+    "kw": "corazones"
+}, {
+    "tag": "VAMOS",
+    "weight": 39,
+    "kw": "corazones"
+}, {
+    "tag": "ACA",
+    "weight": 39,
+    "kw": "corazones"
+}, {
+    "tag": "GENERO",
+    "weight": 39,
+    "kw": "corazones"
+}, {
+    "tag": "BANGTANSONYEONDAN",
+    "weight": 38,
+    "kw": "corazones"
+}, {
+    "tag": "POLITICO",
+    "weight": 38,
+    "kw": "corazones"
+}, {
+    "tag": "HACER",
+    "weight": 38,
+    "kw": "corazones"
+}, {
+    "tag": "LIFE",
+    "weight": 38,
+    "kw": "corazones"
+}, {
+    "tag": "GENTE",
+    "weight": 37,
+    "kw": "corazones"
+}, {
+    "tag": "JUSTICIA",
+    "weight": 37,
+    "kw": "corazones"
+}, {
+    "tag": "VOY",
+    "weight": 37,
+    "kw": "corazones"
+}, {
+    "tag": "INTENTO",
+    "weight": 36,
+    "kw": "corazones"
+}, {
+    "tag": "CINE",
+    "weight": 36,
+    "kw": "corazones"
+}, {
+    "tag": "LUCHA",
+    "weight": 36,
+    "kw": "corazones"
+}, {
+    "tag": "TIEMPO",
+    "weight": 35,
+    "kw": "corazones"
+}, {
+    "tag": "PLATE",
+    "weight": 35,
+    "kw": "corazones"
+}, {
+    "tag": "PODEMOS",
+    "weight": 35,
+    "kw": "corazones"
+}, {
+    "tag": "LICENCIADA",
+    "weight": 35,
+    "kw": "corazones"
+}, {
+    "tag": "ANIMALES",
+    "weight": 35,
+    "kw": "corazones"
+}, {
+    "tag": "BIRRA",
+    "weight": 34,
+    "kw": "corazones"
+}, {
+    "tag": "POP",
+    "weight": 34,
+    "kw": "corazones"
+}, {
+    "tag": "CADA",
+    "weight": 34,
+    "kw": "corazones"
+}, {
+    "tag": "LOCA",
+    "weight": 34,
+    "kw": "corazones"
+}, {
+    "tag": "MUJERES",
+    "weight": 33,
+    "kw": "corazones"
+}, {
+    "tag": "MENOS",
+    "weight": 33,
+    "kw": "corazones"
+}, {
+    "tag": "DDHH",
+    "weight": 33,
+    "kw": "corazones"
+}, {
+    "tag": "RADIO",
+    "weight": 33,
+    "kw": "corazones"
+}, {
+    "tag": "CREO",
+    "weight": 33,
+    "kw": "corazones"
+}, {
+    "tag": "SOCIALISTA",
+    "weight": 33,
+    "kw": "corazones"
+}, {
+    "tag": "MATE",
+    "weight": 33,
+    "kw": "corazones"
+}, {
+    "tag": "ESCRITORA",
+    "weight": 32,
+    "kw": "corazones"
+}, {
+    "tag": "TRABAJADORA",
+    "weight": 32,
+    "kw": "corazones"
+}, {
+    "tag": "GUSTAN",
+    "weight": 32,
+    "kw": "corazones"
+}, {
+    "tag": "LIBRES",
+    "weight": 32,
+    "kw": "corazones"
+}, {
+    "tag": "LADO",
+    "weight": 31,
+    "kw": "corazones"
+}, {
+    "tag": "KIRCHNERISTA",
+    "weight": 31,
+    "kw": "corazones"
+}, {
+    "tag": "SUENOS",
+    "weight": 31,
+    "kw": "corazones"
+}, {
+    "tag": "COMUNICADORA",
+    "weight": 31,
+    "kw": "corazones"
+}, {
+    "tag": "WORLD",
+    "weight": 31,
+    "kw": "corazones"
+}, {
+    "tag": "PROCESO",
+    "weight": 31,
+    "kw": "corazones"
+}, {
+    "tag": "LIBROS",
+    "weight": 31,
+    "kw": "corazones"
+}, {
+    "tag": "SERALEY",
+    "weight": 31,
+    "kw": "corazones"
+}, {
+    "tag": "JIMIN",
+    "weight": 31,
+    "kw": "corazones"
+}, {
+    "tag": "TAN",
+    "weight": 30,
+    "kw": "corazones"
+}, {
+    "tag": "GRACIAS",
+    "weight": 30,
+    "kw": "corazones"
+}, {
+    "tag": "BUENA",
+    "weight": 30,
+    "kw": "corazones"
+}, {
+    "tag": "GRANDE",
+    "weight": 30,
+    "kw": "corazones"
+}, {
+    "tag": "NAMJOON",
+    "weight": 29,
+    "kw": "corazones"
+}, {
+    "tag": "GATOS",
+    "weight": 29,
+    "kw": "corazones"
+}, {
+    "tag": "UNCUYO",
+    "weight": 29,
+    "kw": "corazones"
+}, {
+    "tag": "PERSONAS",
+    "weight": 29,
+    "kw": "corazones"
+}, {
+    "tag": "PRODUCTORA",
+    "weight": 29,
+    "kw": "corazones"
+}, {
+    "tag": "REPUBLICANA",
+    "weight": 29,
+    "kw": "corazones"
+}, {
+    "tag": "PUEDO",
+    "weight": 29,
+    "kw": "corazones"
+}, {
+    "tag": "FOTOGRAFA",
+    "weight": 29,
+    "kw": "corazones"
+}, {
+    "tag": "HIJA",
+    "weight": 29,
+    "kw": "corazones"
+}, {
+    "tag": "PERSONA",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "ABORTOLEGAL",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "MORIR",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "ESTUDIO",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "SIGO",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "PSICOLOGA",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "PUEBLO",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "DICEN",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "DERECHOS",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "TODA",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "ASI",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "PURPLE",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "CRISTINA",
+    "weight": 28,
+    "kw": "corazones"
+}, {
+    "tag": "PARTE",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "LOVER",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "ACTRIZ",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "KIM",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "FAVOR",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "FEMINIST",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "YOONGI",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "DON",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "RADICAL",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "SERIES",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "CS",
+    "weight": 27,
+    "kw": "corazones"
+}, {
+    "tag": "IZQUIERDA",
+    "weight": 26,
+    "kw": "corazones"
+}, {
+    "tag": "VEGANA",
+    "weight": 26,
+    "kw": "corazones"
+}, {
+    "tag": "NIUNAMENOS",
+    "weight": 26,
+    "kw": "corazones"
+}, {
+    "tag": "ODIO",
+    "weight": 26,
+    "kw": "corazones"
+}, {
+    "tag": "FUTURO",
+    "weight": 26,
+    "kw": "corazones"
+}, {
+    "tag": "AMA",
+    "weight": 26,
+    "kw": "corazones"
+}, {
+    "tag": "GIRL",
+    "weight": 26,
+    "kw": "corazones"
+}, {
+    "tag": "OFICIAL",
+    "weight": 26,
+    "kw": "corazones"
+}, {
+    "tag": "EX",
+    "weight": 26,
+    "kw": "corazones"
+}, {
+    "tag": "CIENCIAS",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "ZURDA",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "ATLETICO",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "MIEDO",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "ALWAYS",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "PERIODISMO",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "PROYECTO",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "REPUBLICA",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "FEMININJA",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "SNAP",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "CONSTRUCCION",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "PUBLICA",
+    "weight": 25,
+    "kw": "corazones"
+}, {
+    "tag": "MADRID",
+    "weight": 24,
+    "kw": "corazones"
+}, {
+    "tag": "FANATICA",
+    "weight": 24,
+    "kw": "corazones"
+}, {
+    "tag": "BISEXUAL",
+    "weight": 24,
+    "kw": "corazones"
+}, {
+    "tag": "RACING",
+    "weight": 24,
+    "kw": "corazones"
+}, {
+    "tag": "FAMILIA",
+    "weight": 24,
+    "kw": "corazones"
+}, {
+    "tag": "TEATRO",
+    "weight": 24,
+    "kw": "corazones"
+}, {
+    "tag": "FRENTE",
+    "weight": 24,
+    "kw": "corazones"
+}, {
+    "tag": "NACI",
+    "weight": 24,
+    "kw": "corazones"
+}, {
+    "tag": "DECONSTRUCCION",
+    "weight": 23,
+    "kw": "corazones"
+}, {
+    "tag": "DIRECTORA",
+    "weight": 23,
+    "kw": "corazones"
+}, {
+    "tag": "DIOS",
+    "weight": 23,
+    "kw": "corazones"
+}]
